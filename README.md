@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/hailtothe5th">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Yussuf" alt="Hello! I&#39;m Yussuf" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e36209&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Yussuf" alt="Hello! I&#39;m Yussuf" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=Full-stack%20developer%20building%20things%20from%20scratch%2C%20not%20templates;ER%20diagrams%20by%20day%2C%20F1%20telemetry%20data%20by%20night" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-stack%20developer%20building%20things%20from%20scratch%2C%20not%20templates;ER%20diagrams%20by%20day%2C%20F1%20telemetry%20data%20by%20night" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -46,14 +46,14 @@ Business Information Systems background, full-stack developer in JavaScript, PHP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=hailtothe5th&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hailtothe5th&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=hailtothe5th&show_icons=true&theme=tokyonight&title_color=e36209&icon_color=e36209&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hailtothe5th&layout=compact&theme=tokyonight&title_color=e36209&icon_color=e36209&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hailtothe5th&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hailtothe5th&bg_color=00000000&color=e36209&line=e36209&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
